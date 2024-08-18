@@ -1,15 +1,15 @@
-Trello Test Automation
-Overview
+#Trello Test Automation
+##Overview
 This project is a complete end-to-end (E2E) test suite for automating interactions with the Trello website. The suite is built using the TestNG framework with the Page Object Model (POM) and Maven for dependency management. The tests cover various scenarios, including user login, board creation, list management, card management, and cleanup operations.
 
-Project Structure
+##Project Structure
 The project follows the Page Object Model (POM) design pattern to ensure a clean and maintainable codebase. The structure includes:
 
 Page Object Classes: Separate classes for each page on the Trello website, encapsulating page elements and actions.
 Test Classes: Contains the test methods that perform the actual test scenarios.
 Utility Classes: Helper methods and reusable functions.
 Configuration Files: Stores configuration properties and private data.
-Scenarios Covered
+##Scenarios Covered
 Logging In:
 
 Automates the login process using valid credentials.
