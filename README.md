@@ -1,4 +1,5 @@
 #Trello Test Automation
+
 ##Overview
 This project is a complete end-to-end (E2E) test suite for automating interactions with the Trello website. The suite is built using the TestNG framework with the Page Object Model (POM) and Maven for dependency management. The tests cover various scenarios, including user login, board creation, list management, card management, and cleanup operations.
 
